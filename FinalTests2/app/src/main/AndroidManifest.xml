@@ -20,6 +20,11 @@
         <activity
             android:name=".Pageb"
             android:label="@string/app_name" />
+        <activity
+            android:name=".Recycle"
+            android:exported="true">
+
+        </activity>
 
     </application>
 
